@@ -25,12 +25,14 @@ To produce the ground truth labels the full volumes of all 21 OARs included in t
 ## Citation
 To use this dataset please cite as follows:
 
+```
 @article{nikolov2018,
 author = {Stanislav Nikolov and Sam Blackwell and Ruheena Mendes and Jeffrey De Fauw and Clemens Meyer and Cían Hughes and Harry Askham and Bernardino Romera-Paredes and Alan Karthikesalingam and Carlton Chu and Dawn Carnell and Cheng Boon and Derek D'Souza and Syed Ali Moinuddin and Kevin Sullivan and DeepMind Radiographer Consortium and Hugh Montgomery and Geraint Rees and Ricky Sharma and Mustafa Suleyman and Trevor Back and Joseph R. Ledsam and Olaf Ronneberger},
 title = {Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy},
 journal={arXiv preprint},
 year = {2018},
 }
+```
 
 ## References
 W. R.  Bosch,  W.  L.  Straube,  J.  W.  Matthews,  and  J.  A.  Purdy,  “Head-neck  cetuximab  -  thecancer  imaging  archive,”  2015.  Available:   https://wiki.cancerimagingarchive.net/display/Public/Head-Neck+Cetuximab

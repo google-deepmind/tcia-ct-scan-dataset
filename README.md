@@ -8,13 +8,13 @@ git clone git@github.com:deepmind/tcia-ct-scan-dataset.git
 ```
 
 ## Summary
-This dataset consists of previously open sourced head and neck scans, each segmented with full volumetric regions by trained radiographers according to standard segmentation class definition found in the atlas proposed in Brouwer et al (2015). The test and validation sets were created as part of the DeepMind-UCLH collaboration to apply deep learning to radiotherapy.
+This dataset consists of previously open sourced depersonalised head and neck scans, each segmented with full volumetric regions by trained radiographers according to standard segmentation class definition found in the atlas proposed in Brouwer et al (2015). The test and validation sets were created as part of the DeepMind-UCLH collaboration to apply deep learning to radiotherapy.
 
 The validation and test sets were curated from CT planning scans selected from two open source datasets available from The Cancer Imaging Archive (Clark et al, 2013): TCGA-HNSC (Zuley et al, 2016) and Head-Neck Cetuximab (Bosch et al, 2015). Non-CT planning scans and those that did not meet the same slice thickness as the UCLH scans (2.5mm) were excluded. These were then manually segmented in-house according to the Brouwer Atlas (Brouwer et al, 2015). 31 scans were selected (22 Head-Neck Cetuximab, 9 TCGA-HNSC) which met these criteria, which were further split into validation (6 patients, 7 scans) and test (24 patients, 24 scans) sets. 
 
 For more information on the original datasets please refer to the specific citations (Zuley et al, 2016; Bosch et al, 2015).
 
-For more information on how this dataset and how it was created please refer to the artical that it accompanies (citation below).
+For more information on how this dataset and how it was created please refer to the article that it accompanies (citation below).
 
 ## Selection of Organs At Risk
 In order to select which OARs to include in the study, we used the Brouwer Atlas (consensus guidelines for delineating OARs for head and neck radiotherapy, defined by an international panel of radiation oncologists (Brouwer et al, 2015). From this, we excluded those regions which required additional magnetic resonance imaging for segmentation, were not relevant to routine head and neck radiotherapy, or that were not used clinically at UCLH. This resulted in a set of 21 organs at risk.

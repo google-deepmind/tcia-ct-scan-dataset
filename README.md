@@ -1,10 +1,10 @@
 # TCIA Test & Validation Radiotherapy CT Planning Scan Dataset
 
 ## Usage
-The dataset is stored via Git LFS. To download the full repository, first follow the [Git LFS installation instructions](https://git-lfs.github.com/) then run:
+The dataset is stored via Git LFS. To download the full repository, first follow the [Git LFS installation instructions](https://git-lfs.github.com/) then clone as usual:
 
 ```sh
-git lfs clone https://github.com/deepmind/tcia-ct-scan-dataset
+git clone git@github.com:deepmind/tcia-ct-scan-dataset.git
 ```
 
 ## Summary

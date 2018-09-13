@@ -27,14 +27,14 @@ To use this dataset please cite as follows:
 
 ```
 @article{nikolov2018,
-author = {Stanislav Nikolov and Sam Blackwell and Ruheena Mendes and Jeffrey De Fauw and Clemens Meyer and Cían Hughes and Harry Askham and Bernardino Romera-Paredes and Alan Karthikesalingam and Carlton Chu and Dawn Carnell and Cheng Boon and Derek D'Souza and Syed Ali Moinuddin and Kevin Sullivan and DeepMind Radiographer Consortium and Hugh Montgomery and Geraint Rees and Ricky Sharma and Mustafa Suleyman and Trevor Back and Joseph R. Ledsam and Olaf Ronneberger},
-title = {Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy},
-journal = {ArXiv e-prints},
-archivePrefix = "arXiv",
-eprint = {1809.04430},
-primaryClass = "cs.CV",
-year = {2018},
-url = {https://arxiv.org/abs/1809.04430}
+  author = {Stanislav Nikolov and Sam Blackwell and Ruheena Mendes and Jeffrey De Fauw and Clemens Meyer and Cían Hughes and Harry Askham and Bernardino Romera-Paredes and Alan Karthikesalingam and Carlton Chu and Dawn Carnell and Cheng Boon and Derek D'Souza and Syed Ali Moinuddin and Kevin Sullivan and DeepMind Radiographer Consortium and Hugh Montgomery and Geraint Rees and Ricky Sharma and Mustafa Suleyman and Trevor Back and Joseph R. Ledsam and Olaf Ronneberger},
+  title = {Deep learning to achieve clinically applicable segmentation of head and neck anatomy for radiotherapy},
+  journal = {ArXiv e-prints},
+  archivePrefix = "arXiv",
+  eprint = {1809.04430},
+  primaryClass = "cs.CV",
+  year = {2018},
+  url = {https://arxiv.org/abs/1809.04430}
 }
 ```
 

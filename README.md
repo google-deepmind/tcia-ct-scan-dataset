@@ -34,6 +34,7 @@ archivePrefix = "arXiv",
 eprint = {1809.04430},
 primaryClass = "cs.CV",
 year = {2018},
+url = {https://arxiv.org/abs/1809.04430}
 }
 ```
 
